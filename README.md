@@ -3,8 +3,6 @@
 
 <h3 align="center">Мои инструменты и технологии:</h3>
 
-## Технологии и инструменты
-
 <div align="center">
 <a href="https://www.jetbrains.com/idea/"><img alt="InteliJ IDEA" height="50" src="images/logo/Idea.svg" width="50"/></a>
 <a href="https://github.com/"><img alt="GitHub" height="50" src="images/logo/GitHub.svg" width="50"/></a>  
