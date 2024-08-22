@@ -106,3 +106,16 @@ https://github.com/Gan9leri/Python_edu
 https://github.com/Gan9leri/Python_edu
 
 </details>
+
+<h3 align="center"> SQL для всех </h3>
+
+<div align="center">
+<a href="https://stepik.org/course/102883?auth=login"><img alt="QA.GURU" height="600" src="images/sert/sql_for_all_sert.png" /></a>
+</div>
+
+<details>
+<summary>Домашние задания курса</summary>
+
+https://github.com/Gan9leri/SQL_edu
+
+</details>
