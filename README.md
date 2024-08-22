@@ -25,6 +25,6 @@
 <h3 align="center">Мои сертификаты</h3>
 
 <div align="center">
-<a href="https://qa.guru/java/"><img alt="InteliJ IDEA" height="50" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png" width="500"/></a>
+<a href="https://qa.guru/java/"><img alt="InteliJ IDEA" height="50" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png"/></a>
 </div>
 
