@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<a href="https://qa.guru/java/"><img alt="QA.GURU" height="500" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png"/></a>
+<a href="https://qa.guru/java/"><img height="500" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png"/></a>
 </div>
 Мой демо-проект по автоматизации тестирования для компании 
 <a href="https://habitica.com/"><img src="images/logo/habitica_logo.png"/></a>
@@ -84,7 +84,7 @@ https://github.com/Gan9leri/task21
 <h3 align="center"> Программирование на Python </h3>
 
 <div align="center">
-<a href="https://stepik.org/course/67?auth=login"><img alt="QA.GURU" height="600" src="images/sert/python_sert.png" /></a>
+<a href="https://stepik.org/course/67?auth=login"><img height="600" src="images/sert/python_sert.png" /></a>
 </div>
 
 <details>
@@ -97,7 +97,7 @@ https://github.com/Gan9leri/Python_edu
 <h3 align="center"> ООП Python </h3>
 
 <div align="center">
-<a href="https://stepik.org/course/181506?auth=login"><img alt="QA.GURU" height="600" src="images/sert/OOP_python_sert.PNG" /></a>
+<a href="https://stepik.org/course/181506?auth=login"><img height="600" src="images/sert/OOP_python_sert.PNG" /></a>
 </div>
 
 <details>
@@ -110,7 +110,7 @@ https://github.com/Gan9leri/Python_edu
 <h3 align="center"> SQL для всех </h3>
 
 <div align="center">
-<a href="https://stepik.org/course/102883?auth=login"><img alt="QA.GURU" height="600" src="images/sert/sql_for_all_sert.png" /></a>
+<a href="https://stepik.org/course/102883?auth=login"><img height="600" src="images/sert/sql_for_all_sert.png" /></a>
 </div>
 
 <details>
@@ -123,5 +123,5 @@ https://github.com/Gan9leri/SQL_edu
 <h3 align="center"> Тестирование ПО: Postman для тестирования API </h3>
 
 <div align="center">
-<a href="https://stepik.org/course/120679?auth=login"><img alt="QA.GURU" height="600" src="images/sert/Postman_sert.png" /></a>
+<a href="https://stepik.org/course/120679?auth=login"><img height="600" src="images/sert/Postman_sert.png" /></a>
 </div>
