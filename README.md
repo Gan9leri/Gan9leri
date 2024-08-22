@@ -25,9 +25,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gan9leri&show_icons=true&bg_color=00000000)
 
 <h3 align="center">Мои сертификаты</h3>
+<h3 align="center"> Курс по автоматизации тестирования на Java </h3>
 
 <div align="center">
-Курс по автоматизации тестирования на Java
+
 <a href="https://qa.guru/java/"><img alt="QA.GURU" height="500" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png"/></a>
 </div>
 Мой демо-проект по автоматизации тестирования для компании 
@@ -80,8 +81,9 @@ https://github.com/Gan9leri/task21
 
 </details>
 
+<h3 align="center"> Программирование на Python </h3>
+
 <div align="center">
-Программирование на Python
 <a href="https://stepik.org/course/67?auth=login"><img alt="QA.GURU" height="600" src="images/sert/python_sert.png" /></a>
 </div>
 
