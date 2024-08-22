@@ -93,3 +93,16 @@ https://github.com/Gan9leri/task21
 https://github.com/Gan9leri/Python_edu
 
 </details>
+
+<h3 align="center"> ПООП Python </h3>
+
+<div align="center">
+<a href="https://stepik.org/course/181506?auth=login"><img alt="QA.GURU" height="600" src="images/sert/python_sert.png" /></a>
+</div>
+
+<details>
+<summary>Домашние задания курса</summary>
+
+https://github.com/Gan9leri/Python_edu
+
+</details>
