@@ -80,5 +80,5 @@ https://github.com/Gan9leri/task21
 </details>
 
 <div align="center">
-<a href="https://qa.guru/java/"><img alt="QA.GURU" height="500" src="images/sert/python_sert.png"/></a>
+<a href="https://qa.guru/java/"><img alt="QA.GURU" height="700" src="images/sert/python_sert.png"/></a>
 </div>
