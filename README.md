@@ -78,3 +78,7 @@ https://github.com/Gan9leri/task20
 https://github.com/Gan9leri/task21
 
 </details>
+
+<div align="center">
+<a href="https://qa.guru/java/"><img alt="QA.GURU" height="500" src="images/sert/stepik-certificate-67-82d69a7.pdf"/></a>
+</div>
