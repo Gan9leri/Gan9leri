@@ -29,6 +29,6 @@
 <div align="center">
 <a href="https://qa.guru/java/"><img alt="QA.GURU" height="500" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png"/></a>
 </div>
-Мой демо-проект по автоматизации тестирования для компании [<img width="15%" title="HABITICA" src="media/logo/habitica_logo.png"/>](https://habitica.com) - [Ссылка на проект](https://github.com/Gan9leri/habitica-patent)
+Мой демо-проект по автоматизации тестирования для компании <a href="https://habitica.com/"><img src="images/logo/habitica_logo.png">- [Ссылка на проект](https://github.com/Gan9leri/habitica-patent)
 Домашние задания:
 
