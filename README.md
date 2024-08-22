@@ -31,5 +31,6 @@
 </div>
 Мой демо-проект по автоматизации тестирования для компании <a href="https://habitica.com/"><img src="images/logo/habitica_logo.png">
 https://github.com/Gan9leri/habitica-patent
+
 Домашние задания:
 
