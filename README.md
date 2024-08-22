@@ -21,3 +21,10 @@
 <a href="https://www.atlassian.com/software/jira"><img alt="Jira" height="50" src="images/logo/Jira.svg" width="50"/></a>  
 <a href="https://telegram.org/"><img alt="Telegram" height="50" src="images/logo/Telegram.svg" width="50"/></a>
 </div>
+
+<h3 align="center">Мои сертификаты</h3>
+
+<div align="center">
+<a href="https://qa.guru/java/"><img alt="InteliJ IDEA" height="50" src="images/sert/ОВСЯННИКОВ%20АЛЕКСАНДР.png" width="50"/></a>
+</div>
+
