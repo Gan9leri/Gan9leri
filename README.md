@@ -35,7 +35,7 @@
 https://github.com/Gan9leri/habitica-patent
 
 <details>
-<summary>Домашние задания:</summary>
+<summary>Домашние задания курса</summary>
 
 https://github.com/Gan9leri/qa_guru_27_git
 
