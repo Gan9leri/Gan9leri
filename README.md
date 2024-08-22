@@ -32,5 +32,26 @@
 Мой демо-проект по автоматизации тестирования для компании <a href="https://habitica.com/"><img src="images/logo/habitica_logo.png">
 https://github.com/Gan9leri/habitica-patent
 
-Домашние задания:
-
+<details>
+<summary>Домашние задания:</summary>
+https://github.com/Gan9leri/qa_guru_27_git
+https://github.com/Gan9leri/demoqa-practice-form
+https://github.com/Gan9leri/task4
+https://github.com/Gan9leri/task5
+https://github.com/Gan9leri/qa_guru_27_java
+https://github.com/Gan9leri/task6
+https://github.com/Gan9leri/task7
+https://github.com/Gan9leri/task7_1
+https://github.com/Gan9leri/task8
+https://github.com/Gan9leri/task9
+https://github.com/Gan9leri/task10
+https://github.com/Gan9leri/task12
+https://github.com/Gan9leri/task13
+https://github.com/Gan9leri/task14
+https://github.com/Gan9leri/task15
+https://github.com/Gan9leri/task16
+https://github.com/Gan9leri/task17-18
+https://github.com/Gan9leri/task19
+https://github.com/Gan9leri/task20
+https://github.com/Gan9leri/task21
+</details>
