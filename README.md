@@ -22,6 +22,8 @@
 <a href="https://telegram.org/"><img alt="Telegram" height="50" src="images/logo/Telegram.svg" width="50"/></a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gan9leri&show_icons=true&bg_color=00000000)
+
 <h3 align="center">Мои сертификаты</h3>
 
 <div align="center">
