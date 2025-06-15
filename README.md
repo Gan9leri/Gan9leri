@@ -134,6 +134,7 @@ https://github.com/Gan9leri/SQL_edu
 <summary>Домашние задания курса</summary>
 
 [https://github.com/Gan9leri/java_simulator_task2_1_1](https://github.com/Gan9leri/java_simulator_task2_1_1)
+
 [https://github.com/Gan9leri/java_simulator_task2_1_2](https://github.com/Gan9leri/java_simulator_task2_1_2)
 
 </details>
