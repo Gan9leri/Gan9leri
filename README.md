@@ -140,3 +140,14 @@ https://github.com/Gan9leri/SQL_edu
 [https://github.com/Gan9leri/java_simulator_task2_1_2](https://github.com/Gan9leri/java_simulator_task2_1_2)
 
 </details>
+
+<h3 align="center"> Прочие проекты </h3>
+
+<div align="center">
+<a href="https://stepik.org/course/182389/syllabus?search=7262451423"><img height="600" src="images/logo/projects.jpg" /></a>
+</div>
+
+<details>
+<summary>API тесты для [reqres.in](https://reqres.in/)</summary>
+
+[https://github.com/Gan9leri/reqres_in_tests](https://github.com/Gan9leri/reqres_in_tests)
