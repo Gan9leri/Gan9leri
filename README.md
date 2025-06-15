@@ -125,3 +125,7 @@ https://github.com/Gan9leri/SQL_edu
 <div align="center">
 <a href="https://stepik.org/course/120679?auth=login"><img height="600" src="images/sert/Postman_sert.png" /></a>
 </div>
+
+<div align="center">
+<a href="https://stepik.org/course/182389/syllabus?search=7262451423"><img height="600" src="logo/java_simulator.png" /></a>
+</div>
