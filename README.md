@@ -126,6 +126,8 @@ https://github.com/Gan9leri/SQL_edu
 <a href="https://stepik.org/course/120679?auth=login"><img height="600" src="images/sert/Postman_sert.png" /></a>
 </div>
 
+<h3 align="center"> Java Тренажер </h3>
+
 <div align="center">
 <a href="https://stepik.org/course/182389/syllabus?search=7262451423"><img height="600" src="images/logo/java_simulator.jpg" /></a>
 </div>
