@@ -148,6 +148,6 @@ https://github.com/Gan9leri/SQL_edu
 </div>
 
 <details>
-<summary>API тесты для [reqres.in](https://reqres.in/)</summary>
+<summary>API тесты для [reqres.in](https://reqres.in/) </summary>
 
 [https://github.com/Gan9leri/reqres_in_tests](https://github.com/Gan9leri/reqres_in_tests)
