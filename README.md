@@ -127,5 +127,5 @@ https://github.com/Gan9leri/SQL_edu
 </div>
 
 <div align="center">
-<a href="https://stepik.org/course/182389/syllabus?search=7262451423"><img height="600" src="images/logo/java_simulator.png" /></a>
+<a href="https://stepik.org/course/182389/syllabus?search=7262451423"><img height="600" src="images/logo/java_simulator.jpg" /></a>
 </div>
