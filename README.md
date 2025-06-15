@@ -141,6 +141,8 @@ https://github.com/Gan9leri/SQL_edu
 
 [https://github.com/Gan9leri/java_simulator_task2_1_3](https://github.com/Gan9leri/java_simulator_task2_1_3)
 
+[https://github.com/Gan9leri/java_simulator_task2_1_4](https://github.com/Gan9leri/java_simulator_task2_1_4)
+
 </details>
 
 <h3 align="center"> Прочие проекты </h3>
