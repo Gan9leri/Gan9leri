@@ -129,3 +129,11 @@ https://github.com/Gan9leri/SQL_edu
 <div align="center">
 <a href="https://stepik.org/course/182389/syllabus?search=7262451423"><img height="600" src="images/logo/java_simulator.jpg" /></a>
 </div>
+
+<details>
+<summary>Домашние задания курса</summary>
+
+[https://github.com/Gan9leri/java_simulator_task2_1_1](https://github.com/Gan9leri/java_simulator_task2_1_1)
+[https://github.com/Gan9leri/java_simulator_task2_1_2](https://github.com/Gan9leri/java_simulator_task2_1_2)
+
+</details>
