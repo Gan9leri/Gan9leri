@@ -135,19 +135,25 @@ https://github.com/Gan9leri/SQL_edu
 <details>
 <summary>Домашние задания курса</summary>
 
-[https://github.com/Gan9leri/java_simulator_task2_1_1](https://github.com/Gan9leri/java_simulator_task2_1_1)
+[https://github.com/Gan9leri/java_simulator_task_2_1_1](https://github.com/Gan9leri/java_simulator_task_2_1_1)
 
-[https://github.com/Gan9leri/java_simulator_task2_1_2](https://github.com/Gan9leri/java_simulator_task2_1_2)
+[https://github.com/Gan9leri/java_simulator_task_2_1_2](https://github.com/Gan9leri/java_simulator_task_2_1_2)
 
-[https://github.com/Gan9leri/java_simulator_task2_1_3](https://github.com/Gan9leri/java_simulator_task2_1_3)
+[https://github.com/Gan9leri/java_simulator_task_2_1_3](https://github.com/Gan9leri/java_simulator_task_2_1_3)
 
-[https://github.com/Gan9leri/java_simulator_task2_1_4](https://github.com/Gan9leri/java_simulator_task2_1_4)
+[https://github.com/Gan9leri/java_simulator_task_2_1_4](https://github.com/Gan9leri/java_simulator_task_2_1_4)
 
-[https://github.com/Gan9leri/java_simulator_task2_1_5](https://github.com/Gan9leri/java_simulator_task2_1_5)
+[https://github.com/Gan9leri/java_simulator_task_2_1_5](https://github.com/Gan9leri/java_simulator_task_2_1_5)
 
 [https://github.com/Gan9leri/java_simulator_task_3_1_1](https://github.com/Gan9leri/java_simulator_task_3_1_1)
 
 [https://github.com/Gan9leri/java_simulator_task_3_1_2](https://github.com/Gan9leri/java_simulator_task_3_1_2)
+
+[https://github.com/Gan9leri/java_simulator_task_3_1_3](https://github.com/Gan9leri/java_simulator_task_3_1_3)
+
+[https://github.com/Gan9leri/java_simulator_task_3_1_4](https://github.com/Gan9leri/java_simulator_task_3_1_4)
+
+
 
 </details>
 
