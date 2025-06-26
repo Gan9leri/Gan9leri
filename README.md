@@ -209,3 +209,5 @@ https://github.com/Gan9leri/SQL_edu
 <summary>API тесты для https://reqres.in/ </summary>
 
 [https://github.com/Gan9leri/reqres_in_tests](https://github.com/Gan9leri/reqres_in_tests)
+
+[https://github.com/Gan9leri/find_first_unique_element_in_array](https://github.com/Gan9leri/find_first_unique_element_in_array)
