@@ -217,4 +217,6 @@ https://github.com/Gan9leri/SQL_edu
 
 [https://github.com/Gan9leri/find_first_unique_element_in_array](https://github.com/Gan9leri/find_first_unique_element_in_array)
 
+[https://github.com/Gan9leri/reverse_string](https://github.com/Gan9leri/reverse_string)
+
 </details>
