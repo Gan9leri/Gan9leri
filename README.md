@@ -210,4 +210,7 @@ https://github.com/Gan9leri/SQL_edu
 
 [https://github.com/Gan9leri/reqres_in_tests](https://github.com/Gan9leri/reqres_in_tests)
 
+<details>
+<summary>Задачи с собеседований</summary>
+
 [https://github.com/Gan9leri/find_first_unique_element_in_array](https://github.com/Gan9leri/find_first_unique_element_in_array)
