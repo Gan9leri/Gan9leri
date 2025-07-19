@@ -131,7 +131,7 @@ https://github.com/Gan9leri/SQL_edu
 <a><img height="600" src="images/sert/diplom.PNG" /></a>
 </div>
 
-[Диплом]((https://github.com/Gan9leri/Gangleri/pdf/diplom.pdf)
+[Диплом](https://github.com/Gan9leri/Gangleri/pdf/diplom.pdf)
 
 <h3 align="center"> Java Тренажер </h3>
 
