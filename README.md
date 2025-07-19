@@ -126,6 +126,11 @@ https://github.com/Gan9leri/SQL_edu
 <a href="https://stepik.org/course/120679?auth=login"><img height="600" src="images/sert/Postman_sert.png" /></a>
 </div>
 
+<h3 align="center"> Диплом о высшем образовании </h3>
+<div align="center">
+<a><img height="600" src="images/sert/diplom.png" /></a>
+</div>
+
 <h3 align="center"> Java Тренажер </h3>
 
 <div align="center">
