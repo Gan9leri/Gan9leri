@@ -128,7 +128,7 @@ https://github.com/Gan9leri/SQL_edu
 
 <h3 align="center"> Диплом о высшем образовании </h3>
 <div align="center">
-<a><img height="600" src="images/sert/diplom.png" /></a>
+<a><img height="600" src="images/sert/diplom.PNG" /></a>
 </div>
 
 <h3 align="center"> Java Тренажер </h3>
