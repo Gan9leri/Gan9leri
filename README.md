@@ -132,7 +132,9 @@ https://github.com/Gan9leri/SQL_edu
 </div>
 
 [Диплом](pdf/diplom.pdf)
+
 [Выпускная квалификационная работа](pdf/paper.pdf)
+
 [Код проекта](https://github.com/Gan9leri/patent)
 
 <h3 align="center"> Java Тренажер </h3>
