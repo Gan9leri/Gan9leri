@@ -24,7 +24,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gan9leri&show_icons=true&bg_color=00000000)
 
-<h3 align="center">Мои сертификаты</h3>
+<h3 align="center">Мои сертификаты и дипломы</h3>
 <h3 align="center"> Курс по автоматизации тестирования на Java </h3>
 
 <div align="center">
@@ -81,6 +81,23 @@ https://github.com/Gan9leri/task21
 
 </details>
 
+<h3 align="center"> Диплом специалиста </h3>
+<div align="center">
+<a><img height="600" src="images/sert/diplom.PNG" /></a>
+</div>
+
+[Диплом](pdf/diplom.pdf)
+
+[Выпускная квалификационная работа](pdf/paper.pdf)
+
+[Код проекта](https://github.com/Gan9leri/patent)
+
+<details>
+<summary>Другие проекты курса</summary>
+
+  
+</details>
+
 <h3 align="center"> Программирование на Python </h3>
 
 <div align="center">
@@ -130,12 +147,6 @@ https://github.com/Gan9leri/SQL_edu
 <div align="center">
 <a><img height="600" src="images/sert/diplom.PNG" /></a>
 </div>
-
-[Диплом](pdf/diplom.pdf)
-
-[Выпускная квалификационная работа](pdf/paper.pdf)
-
-[Код проекта](https://github.com/Gan9leri/patent)
 
 <h3 align="center"> Java Тренажер </h3>
 
