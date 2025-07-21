@@ -95,7 +95,7 @@ https://github.com/Gan9leri/task21
 <details>
 <summary>Другие проекты курса (список формируется)</summary>
   
-[https://github.com/Gan9leri/input_fio] (https://github.com/Gan9leri/input_fio)
+[https://github.com/Gan9leri/input_fio](https://github.com/Gan9leri/input_fio)
   
 </details>
 
