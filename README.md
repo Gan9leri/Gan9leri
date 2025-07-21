@@ -93,7 +93,7 @@ https://github.com/Gan9leri/task21
 [Код проекта](https://github.com/Gan9leri/patent)
 
 <details>
-<summary>Другие проекты курса (список формируется)</summary>
+<summary>Другие проекты курса (Восстанавливаю код, список будет дополняться)</summary>
   
 [https://github.com/Gan9leri/input_fio](https://github.com/Gan9leri/input_fio)
   
