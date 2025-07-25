@@ -95,6 +95,8 @@ https://github.com/Gan9leri/task21
 <details>
 <summary>Другие проекты курса (Восстанавливаю код, список будет дополняться)</summary>
 
+[https://github.com/Gan9leri/perc](https://github.com/Gan9leri/perc)
+
 [https://github.com/Gan9leri/simulateAnnealing](https://github.com/Gan9leri/simulateAnnealing)
 
 [https://github.com/Gan9leri/genetic](https://github.com/Gan9leri/genetic)
