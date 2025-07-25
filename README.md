@@ -97,6 +97,8 @@ https://github.com/Gan9leri/task21
 
 [https://github.com/Gan9leri/simulateAnnealing](https://github.com/Gan9leri/simulateAnnealing)
 
+[https://github.com/Gan9leri/genetic](https://github.com/Gan9leri/genetic)
+
 [https://github.com/Gan9leri/astar](https://github.com/Gan9leri/astar)
   
 [https://github.com/Gan9leri/dsearch](https://github.com/Gan9leri/dsearch)
