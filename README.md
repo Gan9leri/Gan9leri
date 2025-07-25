@@ -106,6 +106,8 @@ https://github.com/Gan9leri/task21
 [https://github.com/Gan9leri/dsearch](https://github.com/Gan9leri/dsearch)
 
 [https://github.com/Gan9leri/input_fio](https://github.com/Gan9leri/input_fio)
+
+[https://github.com/Gan9leri/queue_array](https://github.com/Gan9leri/queue_array)
   
 </details>
 
